@@ -1,6 +1,6 @@
 '''
 pip install selenium
-下载chrome driver.exe和浏览器版本保存一致，放到安装目录script目录下
+下载chrome driver.exe和浏览器版本保存一致，放到python安装目录script目录下
 下载地址：http://chromedriver.storage.googleapis.com/index.html
 '''
 from selenium import webdriver
